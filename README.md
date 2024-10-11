@@ -1,16 +1,16 @@
-## Consignes Techniques du projet
+# Consignes Techniques du projet
 
-### Fonts
+## Fonts Family
 
-- Family: [Barlow]  Weights: 600
-- Family: [Fraunces] Weights: 700, 900
+- Barlow : Weights: 600
+- Fraunces : Weights: 700, 900
 
-### Couleurs principales
+## Couleurs principales
 
-- Soft red: hsl(7, 99%, 70%)
-- Yellow: hsl(51, 100%, 49%)
+- Soft red: #fe7867
+- Yellow: #fad400
 
-### Textes de la page
+## Textes de la page
 
 About
 Services
